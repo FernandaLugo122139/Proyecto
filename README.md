@@ -1,4 +1,4 @@
-# Código malicioso aplicando al secuestro de datos
+# Código malicioso aplicado al secuestro de datos
 Equipo B 2.0
 
 García Lugo María Fernanda
