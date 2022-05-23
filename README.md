@@ -18,3 +18,4 @@ En el main se consigue la hora y fecha actual del sistema y se define en qué mo
 
 
 # MakeFile
+Archivo que realiza la compilación de Malware.c. Este archivo consiste en la definición de la macros, en donde se establece el compilador y las banderas del compilador. Se establece "Proyecto" como nombre del ejecutable, se crean los archivos con extensión .o a partir de los archivos con extesión .c y se agrega una sección para remover los archivos generados anteriormente por la compilación en el caso de requerirlo. 
